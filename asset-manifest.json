@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HybrisFea/pokemon-app.git/static/css/main.f06f441c.css",
+    "main.js": "/HybrisFea/pokemon-app.git/static/js/main.f70cda28.js",
+    "static/js/453.c09a555b.chunk.js": "/HybrisFea/pokemon-app.git/static/js/453.c09a555b.chunk.js",
+    "index.html": "/HybrisFea/pokemon-app.git/index.html",
+    "main.f06f441c.css.map": "/HybrisFea/pokemon-app.git/static/css/main.f06f441c.css.map",
+    "main.f70cda28.js.map": "/HybrisFea/pokemon-app.git/static/js/main.f70cda28.js.map",
+    "453.c09a555b.chunk.js.map": "/HybrisFea/pokemon-app.git/static/js/453.c09a555b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06f441c.css",
+    "static/js/main.f70cda28.js"
+  ]
+}
